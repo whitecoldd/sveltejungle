@@ -4,7 +4,7 @@ export default {
 	theme: {
 		extend: {
 			fontFamily: { medieval: ['MedievalSharp', 'cursive'], neon: ['Neon Tubes'] },
-			fontSize: { huge: ['14.75rem', '14.75rem'] },
+			fontSize: { huge: ['14.75rem', '14.75rem'], mobile: ["6.75rem", "6.75rem"] },
 			colors: {
 				light: { 100: '#E8DEBF', 300: '#C7AC68' },
 				brown: { 300: '#AA6132', 400: '#7E431E' },
@@ -22,7 +22,7 @@ export default {
 				flameobj: '0px 0px 20px #FFA500',
 				white: '0px 0px 7px #FFA500'
 			},
-	
+
 		}
 	},
 	plugins: []

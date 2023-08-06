@@ -60,7 +60,7 @@
 	class="h-screen w-full flex items-center justify-center bg-primary-400 relative overflow-hidden"
 >
 	<div class="py-1 px-3 z-20">
-		<h1 class="font-neon text-huge text-center text-light-100 z-20">
+		<h1 class="font-neon text-mobile lg:text-huge text-center text-light-100 z-20">
 			<span class="text-white drop-shadow-neon">white</span>
 			<span class="text-white drop-shadow-flame">cold</span><span
 				bind:this={text2}
