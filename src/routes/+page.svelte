@@ -40,7 +40,7 @@
 			{ x: ['1000px', '0px'] },
 			{ duration: 1.5, easing: 'ease', at: '<' }
 		];
-		const animateBg = [bg, { scale: [1.15, 1] }, { duration: 2, at: '+0.7' }];
+		const animateBg = [bg, { scale: [1.15, 1] }, { duration: 2 }];
 		const animateBlocker = [blocker, { opacity: [1, 0] }, { duration: 1 }];
 		const animateBang1 = [
 			bang,
