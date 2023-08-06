@@ -19,7 +19,7 @@
 				text2,
 				{
 					color: ['#fff', '#000'],
-					filter: ['drop-shadow(0px 0px 0px #FFA500)', 'none']
+					filter: ['drop-shadow(0px 0px 7px #FFA500)', 'none']
 				},
 				{
 					duration: 0.2,
